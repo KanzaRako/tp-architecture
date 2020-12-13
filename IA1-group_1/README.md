@@ -1,5 +1,5 @@
-## Projet IA1-group-1 | Réservation de vols
-# Ce projet utilise les technologies: PHP, PHPmyAdmin, JVS, CSS, HTML, Bootstrap. 
+# Projet IA1-group-1 | Réservation de vols
+## Ce projet utilise les technologies: PHP, PHPmyAdmin, JVS, CSS, HTML, Bootstrap. 
 
 
 Pour lancer le projet:
