@@ -1,4 +1,4 @@
-#Projet architecture | Réservation de vols
+# Projet architecture | Réservation de vols
 
 ## Ce projet utilise les technologies : PHPmyADMIN, PHP,JVS, HTML, Bootstrap, CSS, JSON.
 
@@ -13,4 +13,5 @@ Pour initialiser le projet:
 - Vérifiez vos réservations
 - Déconnectez vous
 
-# Vous pouvez afficher l'API rest en tapant localhost/vols.php
+## Vous pouvez afficher l'API rest en tapant localhost/vols.php
+## Accèdez aux screenshots de notre projet dans le dossier "screen"
