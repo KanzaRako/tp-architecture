@@ -4,7 +4,7 @@
 
 Pour lancer le projet:
 
-- Installer un server local sur votre ordinateur.
+- Installez un server local sur votre ordinateur.
 - Mettre le contenu du projet dans le dossier WWW de votre server local.
 - Ajoutez la base de donnée dans PHP my Admin.
 - Connectez vous avec les identifiants root root.
